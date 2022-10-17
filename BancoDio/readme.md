@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rodricoribeiro
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Mobile App and Java
+- This repository is for the Dio project
